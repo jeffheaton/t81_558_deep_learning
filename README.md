@@ -25,7 +25,7 @@ interpret the results of these networks.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_fall2016_syllabus.pdf)
 
 Class|Content
 ---|---
@@ -47,3 +47,6 @@ Class 12<br>12/05/2016 | <ul><li>Applications of Neural Networks <li>Assignment:
 Class 13<br>12/12/2016 | <ul><li>Neural Network Ensembles</ul>
 Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due</b></ul>
 
+# Assignments
+
+* [Programming Assignment #1](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_1.pdf)
