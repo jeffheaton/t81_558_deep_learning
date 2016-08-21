@@ -31,7 +31,7 @@ Class|Content
 ---|---
 [Class 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)<br>08/29/2016 | <ul><li>Python for Machine Learning</ul>
 Labor Day<br>09/05/2016 | **No class session**
-Class 2<br>09/12/2016 | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
+[Class 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>09/12/2016 | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
 Class 3<br>09/19/2016 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
 Class 4<br>09/26/2016 | <ul><li>Classification & Regression<li>Assignment: <b>Program 1 Due</b></ul>
 Class 5<br>10/03/2016 | <ul><li>Backpropagation<li>Assignment: Read Chapter 6</ul>
