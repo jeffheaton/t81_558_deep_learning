@@ -47,6 +47,14 @@ Class 12<br>12/05/2016 | <ul><li>Applications of Neural Networks <li>Assignment:
 Class 13<br>12/12/2016 | <ul><li>Neural Network Ensembles</ul>
 Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due</b></ul>
 
+# Datasets
+
+* [toy1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset.
+
 # Assignments
 
 * [Programming Assignment #1](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_1.pdf)
+
+# Other Information
+
+* [Helpful Functions](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/jeffs_helpful.ipynb) - Helpful Python functions for this class.
