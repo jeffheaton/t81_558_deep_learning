@@ -49,7 +49,12 @@ Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Proj
 
 # Datasets
 
+* [Iris](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset.
+* [Auto MPG](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_auto-mpg.ipynb) - The toy1 dataset.
+* [WC Breast Cancer](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_wcbc.ipynb) - The toy1 dataset.
 * [toy1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset.
+
+*Note: Other datasets will be added as the class progresses.
 
 # Assignments
 
