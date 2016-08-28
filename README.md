@@ -1,6 +1,8 @@
 # T81 558:Applications of Deep Neural Networks
 [Washington University in St. Louis](http://www.wustl.edu)
+
 Instructor: [Jeff Heaton](http://www.heatonresearch.com/)
+
 Fall 2016, Mondays, 6 - 8:30 PM, Lopata Hall, #229
 
 # Course Description
@@ -49,10 +51,10 @@ Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Proj
 
 # Datasets
 
-* [Iris](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset.
-* [Auto MPG](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_auto-mpg.ipynb) - The toy1 dataset.
-* [WC Breast Cancer](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_wcbc.ipynb) - The toy1 dataset.
-* [toy1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset.
+* [Iris](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - Classify between 3 iris species.
+* [Auto MPG](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_auto-mpg.ipynb) - Regression to determine MPG.
+* [WC Breast Cancer](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_wcbc.ipynb) - Binary classification: malignant or benign.
+* [toy1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset, regression for weights of geometric solids.
 
 *Note: Other datasets will be added as the class progresses.
 
