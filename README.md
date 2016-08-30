@@ -67,3 +67,5 @@ Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Proj
 
 * [Helpful Functions](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/jeffs_helpful.ipynb) - Helpful Python functions for this class.
 * [KDD99 Example](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/tf_kdd99.ipynb)
+* [Video Tutorial on Using Data Scientist Workbench](https://www.youtube.com/watch?v=9r6ZfZm9nmI) - See how to add data to Data Scientist Workbench 
+* [Care and Feeding of Python](http://www.heatonresearch.com/content/python_care.html) - Some useful commands for a local Python install.  Not needed if you are using Data Scientist Workbench.
