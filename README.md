@@ -3,7 +3,7 @@
 
 Instructor: [Jeff Heaton](http://www.heatonresearch.com/)
 
-Fall 2016, Mondays, 6 - 8:30 PM, Lopata Hall, #229
+Fall 2016, Mondays, 6 - 8:30 PM, Seigle, #109
 
 # Course Description
 
