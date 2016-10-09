@@ -37,7 +37,7 @@ Labor Day<br>09/05/2016 | **No class session**
 [Class 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)<br>09/19/2016 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
 [Class 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)<br>09/26/2016 | <ul><li>Classification & Regression<li>Assignment: <b>Program 1 Due</b></ul>
 [Class 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class5_backpropagation.ipynb)<br>10/03/2016 | <ul><li>Backpropagation<li>Assignment: Read Chapter 6</ul>
-Class 6<br>10/10/2016 | <ul><li>Preprocessing<li>Assignment: <b>Program 2 Due</b></ul>
+[Class 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class6_preprocessing.ipynb)<br>10/10/2016 | <ul><li>Preprocessing<li>Assignment: <b>Program 2 Due</b></ul>
 Fall Break<br>10/17/2016 | **No class session**
 **NO CLASS**<br>10/24/2016 | **No class session**
 Class 7<br>10/31/2016 | <ul><li>Convolutional Neural Networks<li>Assignment: <b>Take Home Midterm Due</b></ul>
