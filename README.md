@@ -63,6 +63,7 @@ Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Proj
 * [Programming Assignment #1](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_1.pdf)
 * [Programming Assignment #2](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_2.pdf)
 * [Midterm](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_midterm.pdf)
+* [Final Assignment](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_project.pdf)
 
 # Other Information
 
