@@ -40,13 +40,13 @@ Labor Day<br>09/05/2016 | **No class session**
 [Class 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class6_preprocessing.ipynb)<br>10/10/2016 | <ul><li>Preprocessing<li>Assignment: <b>Program 2 Due</b></ul>
 Fall Break<br>10/17/2016 | **No class session**
 **NO CLASS**<br>10/24/2016 | **No class session**
-Class 7<br>10/31/2016 | <ul><li>Convolutional Neural Networks<li>Assignment: <b>Take Home Midterm Due</b></ul>
-Class 8<br>11/07/2016 | <ul><li>Kaggle Datasets<li>Evaluating Neural Network Performance</ul>
-Class 9<br>11/14/2016 | <ul><li>Regularization and Dropout<li>Assignment: Read Chapter 12, <b>Program 3 Due</b></ul>
-Class 10<br>11/21/2016 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13</ul>
-Class 11<br>11/28/2016 | <ul><li>Architecting Neural Networks<li>Assignment: Read Chapter 14</ul>
-Class 12<br>12/05/2016 | <ul><li>Applications of Neural Networks <li>Assignment: <b>Program 4 Due</b> (submitted on Kaggle.com)</ul>
-Class 13<br>12/12/2016 | <ul><li>Neural Network Ensembles</ul>
+Class 7<br>10/31/2016 | <ul><li>Kaggle Datasets<li>Evaluating Neural Network Performance</ul><li>Assignment: <b>Take Home Midterm Due</b></ul>
+Class 8<br>11/07/2016 | <ul><li>Convolutional Neural Networks
+Class 9<br>11/14/2016 | <ul><li>Regularization and Dropout<li>Assignment: Read Chapter 12</ul>
+Class 10<br>11/21/2016 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13, <b>Program 3 Due</b> (submitted on Kaggle.com)</ul>
+Class 11<br>11/28/2016 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14</ul>
+Class 12<br>12/05/2016 | <ul><li>Applications of Neural Networks <li>Assignment: <b>Program 4 Due</b></ul>
+Class 13<br>12/12/2016 | <ul><li>Advanced Deep Learning Topics</ul>
 Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due</b></ul>
 
 # Datasets
