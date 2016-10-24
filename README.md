@@ -8,7 +8,7 @@ Fall 2016, Mondays, 6 - 8:30 PM, Seigle, #109
 # Course Description
 
 Deep learning is a group of exciting new technologies for neural networks. By using a 
-combination of advanced training techniques neural network architectural components, it 
+combination of advanced training techniques and neural network architectural components, it 
 is now possible to train neural networks of much greater complexity. This course will 
 introduce the student to deep belief neural networks, regularization units (ReLU), 
 convolution neural networks and recurrent neural networks. High performance computing 
@@ -40,8 +40,8 @@ Labor Day<br>09/05/2016 | **No class session**
 [Class 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class6_preprocessing.ipynb)<br>10/10/2016 | <ul><li>Preprocessing<li>Assignment: <b>Program 2 Due</b></ul>
 Fall Break<br>10/17/2016 | **No class session**
 **NO CLASS**<br>10/24/2016 | **No class session**
-Class 7<br>10/31/2016 | <ul><li>Kaggle Datasets<li>Evaluating Neural Network Performance</ul><li>Assignment: <b>Take Home Midterm Due</b></ul>
-Class 8<br>11/07/2016 | <ul><li>Convolutional Neural Networks
+[Class 7](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class7_kaggle.ipynb)<br>10/31/2016 | <ul><li>Kaggle Datasets<li>Evaluating Neural Network Performance</ul><li>Assignment: <b>Take Home Midterm Due</b></ul>
+[Class 8](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class8_cnn.ipynb)<br>11/07/2016 | <ul><li>Convolutional Neural Networks
 Class 9<br>11/14/2016 | <ul><li>Regularization and Dropout<li>Assignment: Read Chapter 12</ul>
 Class 10<br>11/21/2016 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13, <b>Program 3 Due</b> (submitted on Kaggle.com)</ul>
 Class 11<br>11/28/2016 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14</ul>
