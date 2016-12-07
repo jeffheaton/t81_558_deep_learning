@@ -46,7 +46,7 @@ Fall Break<br>10/17/2016 | **No class session**
 [Class 10](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>11/21/2016 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13, <b>Program 3 Due</b> (submitted on Kaggle.com)</ul>
 [Class 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_nlp.ipynb)<br>11/28/2016 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14</ul>
 [Class 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_app.ipynb)<br>12/05/2016 | <ul><li>Applications of Neural Networks <li>Assignment: <b>Program 4 Due</b></ul>
-Class 13<br>12/12/2016 | <ul><li>Advanced Deep Learning Topics</ul>
+[Class 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>12/12/2016 | <ul><li>Advanced Deep Learning Topics</ul>
 Class 14<br>12/19/2016 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due</b></ul>
 
 # Datasets
