@@ -91,4 +91,6 @@ ENV/
 
 # Unique to t81-558
 MNIST-data/
+MNIST_data/
 dnn/
+
