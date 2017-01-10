@@ -93,4 +93,6 @@ ENV/
 MNIST-data/
 MNIST_data/
 dnn/
-
+bio_submit.csv
+bio_test.csv
+bio_train.csv
