@@ -36,7 +36,7 @@ Class|Content
 MLK Day<br>01/16/2017 | **No class session**
 [Class 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)<br>01/23/2017 | <ul><li>Python for Machine Learning</ul>
 [Class 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>01/30/2017 | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
-[Class 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)<br>01/06/2017 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
+[Class 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)<br>02/06/2017 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
 [Class 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)<br>02/13/2017 | <ul><li>Classification & Regression<li>Assignment: <b>Program 1 Due</b></ul>
 [Class 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class5_backpropagation.ipynb)<br>02/20/2017 | <ul><li>Backpropagation<li>Assignment: Read Chapter 6</ul>
 [Class 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class6_preprocessing.ipynb)<br>02/27/2017 | <ul><li>Preprocessing<li>Assignment: <b>Program 2 Due</b></ul>
