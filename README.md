@@ -3,9 +3,9 @@
 
 Instructor: [Jeff Heaton](http://www.heatonresearch.com/)
 
-Spring 2017, Mondays, class room TBA 
+Spring 2017, Mondays, class room Lopata Hall #103 
 
-**Please note, I am in the process of updating course material from the previous semester.**
+**Please note, this semester is using TensorFlow 0.12.2.**
 
 # Course Description
 
