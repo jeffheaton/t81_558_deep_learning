@@ -64,7 +64,7 @@ Spring Break<br>03/13/2017 | **No class session**
 * [Programming Assignment #1](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_1.pdf)
 * [Programming Assignment #2](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_2.pdf)
 * [Midterm](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_midterm.pdf)
-* [Programming Assignment #3](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_3.pdf) **This will be updated with a new data set**
+* [Programming Assignment #3](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_3.pdf) 
 * [Programming Assignment #4](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_program_4.pdf)
 * [Final Assignment](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_559_project.pdf)
 
