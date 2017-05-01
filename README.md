@@ -1,9 +1,9 @@
 # T81 558:Applications of Deep Neural Networks
 [Washington University in St. Louis](http://www.wustl.edu)
 
-Instructor: [Jeff Heaton](http://www.heatonresearch.com/)
+Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-Spring 2017, Mondays, class room Lopata Hall #103 
+Spring 2017, Mondays, Class Room: Lopata Hall #103 
 
 **Please note, this semester is using TensorFlow 0.12.1.**
 
