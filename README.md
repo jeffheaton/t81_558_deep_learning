@@ -3,9 +3,9 @@
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-Spring 2017, Mondays, Class Room: Lopata Hall #103 
+Fall 2017, Mondays, Class Room: TBD
 
-**Please note, this semester is using TensorFlow 0.12.1.**
+**Please note, this semester is using TensorFlow 1.0.**
 
 # Course Description
 
@@ -33,7 +33,6 @@ This syllabus presents the expected class schedule, due dates, and reading assig
 
 Class|Content
 ---|---
-MLK Day<br>01/16/2017 | **No class session**
 [Class 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)<br>08/28/2017 | <ul><li>Python for Machine Learning</ul>
 LABOR DAY<br>09/04/2017 | ** No class labor day **
 [Class 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>09/11/2017 | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
