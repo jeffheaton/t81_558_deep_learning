@@ -18,9 +18,9 @@ convolution neural networks and recurrent neural networks. High performance comp
 processing units (GPUs), as well as grids. Deep learning allows a model to learn 
 hierarchies of information in a way that is similar to the function of the human brain. 
 Focus will be primarily upon the application of deep learning, with some introduction to 
-the mathematical foundations of deep learning. Students will use the Python programming 
-language to architect a deep learning model for several of real-world data sets and 
-interpret the results of these networks.
+the mathematical foundations of deep learning. Students will use TensorFlow and Keras with
+the Python programming language to architect a deep learning model for several of real-world 
+data sets and interpret the results of these networks.
 
 # Objectives
 
