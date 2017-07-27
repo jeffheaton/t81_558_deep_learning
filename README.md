@@ -3,7 +3,7 @@
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-Fall 2017, Mondays, Class Room: TBD
+Fall 2017, Mondays, Class Room: Cupples I #113
 
 **Please note, this semester is using TensorFlow 1.0.**
 
@@ -29,7 +29,7 @@ data sets and interpret the results of these networks.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2017_syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2017_fall.pdf)
 
 Class|Content
 ---|---
