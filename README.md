@@ -3,7 +3,7 @@
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-Fall 2017, Mondays, Class Room: Cupples I #113
+Fall 2017, Mondays, Class Room: Psychology #249
 
 **Please note, this semester is using TensorFlow 1.0.**
 
