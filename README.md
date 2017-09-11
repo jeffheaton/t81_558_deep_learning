@@ -37,17 +37,17 @@ Class|Content
 LABOR DAY<br>09/04/2017 | ** No class labor day **
 [Class 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>09/11/2017 | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
 [Class 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)<br>09/18/2017 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
-[Class 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)<br>09/25/2017 | <ul><li>Classification & Regression<li>Assignment: <b>Program 1 Due (Tuesday, 10-03 at midnight)</b></ul>
-[Class 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class5_backpropagation.ipynb)<br>10/02/2017 | <ul><li>Backpropagation<li>Assignment: Read Chapter 6</ul>
+[Class 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)<br>09/25/2017 | <ul><li>Classification & Regression</ul>
+[Class 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class5_backpropagation.ipynb)<br>10/02/2017 | <ul><li>Backpropagation<li>Assignment: Read Chapter 6, <b>Program 1 Due (Tuesday, 10-03 at midnight)</b></ul>
 [Class 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class6_preprocessing.ipynb)<br>10/09/2017 | <ul><li>Preprocessing<li>Assignment: <b>Program 2 Due (Tuesday, 10-10 at midnight)</b></ul>
 Fall Break<br>10/16/2017 | **No class session**
-[Class 7](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class7_kaggle.ipynb)<br>10/23/2017 | <ul><li>Kaggle Datasets<li>Evaluating Neural Network Performance</ul><li>Assignment: <b>Take Home Midterm Due (Tuesday, 10-31 at midnight)</b></ul>
-[Class 8](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class8_cnn.ipynb)<br>10/30/2017 | <ul><li>Convolutional Neural Networks
+[Class 7](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class7_kaggle.ipynb)<br>10/23/2017 | <ul><li>Kaggle Datasets<li>Evaluating Neural Network Performance</ul>
+[Class 8](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class8_cnn.ipynb)<br>10/30/2017 | <ul><li>Convolutional Neural Networks<li>Assignment: <b>Take Home Midterm Due (Tuesday, 10-31 at midnight)</b></ul>
 [Class 9](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class9_regularization.ipynb)<br>11/06/2017 | <ul><li>Regularization and Dropout<li>Assignment: Read Chapter 12</ul>
-[Class 10](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>11/13/2017 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13, <b>Program 3 Due (Tuesday, 11-21 at midnight)</b> (submitted on Kaggle.com)</ul>
-[Class 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_nlp.ipynb)<br>11/20/2017 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14</ul>
-[Class 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_app.ipynb)<br>11/27/2017 | <ul><li>Applications of Neural Networks <li>Assignment: <b>Program 4 Due (Tuesday, 12-05 at midnight)</b></ul>
-[Class 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>12/04/2017 | <ul><li>Advanced Deep Learning Topics</ul>
+[Class 10](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>11/13/2017 | <ul><li>Timeseries and Recurrent Neural Networks<li>Assignment: Read Chapter 13</ul>
+[Class 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_nlp.ipynb)<br>11/20/2017 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14, <b>Program 3 Due (Tuesday, 11-21 at midnight)</b> (submitted on Kaggle.com)</b></ul>
+[Class 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_app.ipynb)<br>11/27/2017 | <ul><li>Applications of Neural Networks </ul>
+[Class 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>12/04/2017 | <ul><li>Advanced Deep Learning Topics<li>Assignment: <b>Program 4 Due (Tuesday, 12-05 at midnight)</b></ul>
 [Class 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>12/11/2017 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due (Tuesday, 12-18 at midnight)</b></ul>
 
 # Datasets
