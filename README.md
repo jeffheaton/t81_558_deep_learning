@@ -48,7 +48,7 @@ Fall Break<br>10/16/2017 | **No class session**
 [Class 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_nlp.ipynb)<br>11/20/2017 | <ul><li>Natural Language Processing<li>Assignment: Read Chapter 14, <b>Program 3 Due (Tuesday, 11-21 at midnight)</b> (submitted on Kaggle.com)</b></ul>
 [Class 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_app.ipynb)<br>11/27/2017 | <ul><li>Applications of Neural Networks </ul>
 [Class 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>12/04/2017 | <ul><li>Advanced Deep Learning Topics<li>Assignment: <b>Program 4 Due (Tuesday, 12-05 at midnight)</b></ul>
-[Class 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>12/11/2017 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due (Tuesday, 12-18 at midnight)</b></ul>
+[Class 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>12/11/2017 | <ul><li>GPU, HPC and Cloud<li>Assignment: <b>Final Project Due (Tuesday, 12-19 at midnight)</b></ul>
 
 # Datasets
 
