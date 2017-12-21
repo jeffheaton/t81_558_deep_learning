@@ -33,7 +33,7 @@ This syllabus presents the expected class schedule, due dates, and reading assig
 Module|Content
 ---|---
 [Module 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)<br>Week of 01/16/2018 | <ul><li>Python Preliminaries</ul>
-[Module 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>**Meet on 01/22/2018** | <ul><li>Neural Network & Machine Learning Basics<li>Introduction to TensorFlow<li>Assignment: Read Chapter 1</ul>
+[Module 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)<br>**Meet on 01/22/2018** | <ul><li>Python for Machine Learning<li>Module 1 Assignment Due: 01/23/2018<li>**We will meet on campus this week!** (first meeting)</ul>
 [Module 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)<br>Week of 01/29/2018 | <ul><li>Training a Neural Network<li>Assignment: Read Chapters 4 & 5</ul>
 [Module 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)<br>Week of 02/05/2018 | <ul><li>Classification & Regression</ul>
 [Module 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class5_backpropagation.ipynb)<br>**Meet on 02/12/2018** | <ul><li>Backpropagation<li>Assignment: Read Chapter 6, <b>Program 1 Due (Tuesday, 10-03 at midnight)</b></ul>
