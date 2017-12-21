@@ -44,7 +44,7 @@ Module|Content
 [Module 10](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>Week of 03/26/2018 | <ul><li>Time Series and LSTM/GRU Networks<li>Module 9 Assignment due: 03/26/2018</li></ul>
 [Module 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_text_nlp.ipynb)<br>Week of 04/02/2018 | <ul><li>Natural Language Processing<li>Module 10 Assignment due: 04/02/2018</ul>
 [Module 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_security.ipynb)<br>**Meet on 04/09/2018** | <ul><li>Security and Deep Learning<li>Kaggle Assignment due: 04/10/2018 (5PM, due to Kaggle)<li>**We will meet on campus this week!** (4th Meeting)</ul>
-[Module 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_other.ipynb)<br>Week of 04/16/2018 | <ul><li>Advanced/New Deep Learning Topics</ul>
+[Module 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_adv.ipynb)<br>Week of 04/16/2018 | <ul><li>Advanced/New Deep Learning Topics</ul>
 [Module 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>Week of 04/23/2018 | <ul><li>GPU, HPC and Cloud<li>Final Project due 04/27/2018</ul>
 
 
