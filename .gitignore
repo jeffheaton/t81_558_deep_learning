@@ -1,3 +1,7 @@
+kddcup.data_10_percent
+GoogleNews-vectors-negative300.bin.gz
+SN_d_tot_V2.0.csv
+dnn/
 .DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
