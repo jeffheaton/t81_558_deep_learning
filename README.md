@@ -57,7 +57,7 @@ Module|Content
 
 *Note: Other datasets may be added as the class progresses.*
 
-# Other Information
+# Final Project 
 
 For the final project you can choose a security project or choose your own dataset to create and fit a neural network.  For more information:
 
