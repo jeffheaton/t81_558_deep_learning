@@ -55,7 +55,14 @@ Module|Content
 * [WC Breast Cancer](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_wcbc.ipynb) - Binary classification: malignant or benign.
 * [toy1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset, regression for weights of geometric solids.
 
-*Note: Other datasets may be added as the class progresses.
+*Note: Other datasets may be added as the class progresses.*
+
+# Other Information
+
+For the final project you can choose a security project or choose your own dataset to create and fit a neural network.  For more information:
+
+* [Security Project](https://github.com/jeffheaton/t81_558_deep_learning/raw/master/pdf/t81_558_security.pdf) - Read and understand an academic paper that applies deep learning to security.
+* [Independent Project](https://github.com/jeffheaton/t81_558_deep_learning/raw/master/pdf/t81_558_independent_project.pdf) - Choose your own dataset or one of my suggestions.
 
 # Other Information
 
