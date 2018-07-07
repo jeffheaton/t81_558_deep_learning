@@ -3,7 +3,7 @@
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-Spring 2018, Mondays, Online and in class room: Cupples II / L001
+Fall 2018, Mondays, Online and in class room: TBA
 
 # Course Description
 
@@ -28,7 +28,7 @@ hybrid format that includes both classroom and online instruction.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2018_syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_fall2018_syllabus.pdf)
 
 Module|Content
 ---|---
@@ -57,7 +57,7 @@ Module|Content
 
 *Note: Other datasets may be added as the class progresses.*
 
-# Final Project 
+# Final Project
 
 For the final project you can choose a security project or choose your own dataset to create and fit a neural network.  For more information:
 
