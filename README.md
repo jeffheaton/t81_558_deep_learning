@@ -3,7 +3,7 @@
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
-Fall 2018, Mondays, Online and in class room: TBA
+Fall 2018, Mondays, Online and in class room: Cupples II / L001
 
 # Course Description
 
