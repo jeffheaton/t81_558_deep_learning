@@ -1,3 +1,4 @@
+best_weights.hdf5
 *.h5
 kddcup.data_10_percent
 GoogleNews-vectors-negative300.bin.gz
