@@ -3,6 +3,8 @@
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
+**The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
+
 Fall 2018, Mondays, Online and in class room: Cupples II / L001
 
 # Course Description
