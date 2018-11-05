@@ -63,7 +63,7 @@ Module|Content
 
 For the final project you can choose a security project or choose your own dataset to create and fit a neural network.  For more information:
 
-* [Security Project](https://github.com/jeffheaton/t81_558_deep_learning/raw/master/pdf/t81_558_security.pdf) - Read and understand an academic paper that applies deep learning to security.
+* Security Project - See Canvas for more information. 
 * [Independent Project](https://github.com/jeffheaton/t81_558_deep_learning/raw/master/pdf/t81_558_independent_project.pdf) - Choose your own dataset or one of my suggestions.
 
 # Other Information
