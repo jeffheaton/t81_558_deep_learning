@@ -5,7 +5,7 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
-Fall 2018, Mondays, Online and in class room: Cupples II / L001
+Spring 2019, Mondays, Online and in class room: TBD
 
 # Course Description
 
@@ -30,24 +30,24 @@ hybrid format that includes both classroom and online instruction.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_fall2018_syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2019_syllabus.pdf)
 
 Module|Content
 ---|---
-[Module 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class01_intro_python.ipynb)<br>**Meet on 08/27/2018** | <ul><li>Python Preliminaries</ul>
-[Module 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class02_python_ml.ipynb)<br>Week of 09/03/2018 | <ul><li>Python for Machine Learning<li>[Module 1 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class1.ipynb) Due: 09/04/2018<li>**We will meet on campus this week!** (first meeting)</ul>
-[Module 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class03_tensor_flow.ipynb)<br>Week of 09/10/2018 | <ul><li>TensorFlow and Keras for Neural Networks<li>[Module 2: Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class2.ipynb) due: 09/11/2018</ul>
-[Module 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class04_training.ipynb)<br>Week of 09/17/2018 | <ul><li>Training a Neural Network<li>[Module 3 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class3.ipynb) due: 09/18/2018</ul>
-[Module 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class05_class_reg.ipynb)<br>**Meet on 10/01/2018** | <ul><li>Classifcation and Regression<li>[Module 4 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class4.ipynb) due: 10/02/2018<li>**We will meet on campus this week!** (2nd Meeting)</ul>
-[Module 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class06_backpropagation.ipynb)<br>Week of 10/08/2018 | <ul><li>Backpropagation and Other Training Techniques<li>[Module 5 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class5.ipynb) due: 10/09/2018</ul>
-[Module 7](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class07_cnn.ipynb)<br>Week of 10/15/2018 | <ul><li>Convolutional Neural Networks and Computer Vision<li>[Module 6 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class6.ipynb) due: 10/16/2018</ul>
-[Module 8](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class08_kaggle.ipynb)<br>**Meet on 10/22/2018** | <ul><li>Kaggle and Advanced Data Sets<li>[Module 7 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class7.ipynb) due: 10/23/2018<li>**We will meet on campus this week!** (3rd Meeting)<li>**Midterm exam is given on campus this week!** (3rd Meeting)</ul>
-[Module 9](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class09_regularization.ipynb)<br>Week of 10/29/2018 | <ul><li>Regularization and Dropout<li>[Module 8 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class8.ipynb) due: 10/30/2018</ul>
-[Module 10](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>Week of 11/05/2018 | <ul><li>Time Series and LSTM/GRU Networks<li>[Module 9 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class9.ipynb) due: 11/06/2018</ul>
-[Module 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_text_nlp.ipynb)<br>Week of 11/12/2018 | <ul><li>Natural Language Processing<li>[Module 10 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class10.ipynb) due: 11/13/2018</ul>
-[Module 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_security.ipynb)<br>Week of 11/19/2018 | <ul><li>Security and Deep Learning<li>Kaggle Assignment due: 11/20/2018 (5PM, due to Kaggle)
-[Module 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_adv.ipynb)<br>Week of 11/26/2018 | <ul><li>Advanced/New Deep Learning Topics</ul>
-[Module 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>Week of 12/03/2018 | <ul><li>GPU, HPC and Cloud<li>Final Project due 12/04/2018</ul>
+[Module 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class01_intro_python.ipynb)<br>**Meet on 01/14/2019** | <ul><li>Python Preliminaries<li>**We will meet on campus this week!** (first meeting)</ul>
+[Module 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class02_python_ml.ipynb)<br>Week of 01/28/2019 | <ul><li>Python for Machine Learning<li>[Module 1 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class1.ipynb) Due: 01/29/2019</ul>
+[Module 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class03_tensor_flow.ipynb)<br>Week of 02/04/2019 | <ul><li>TensorFlow and Keras for Neural Networks<li>[Module 2: Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class2.ipynb) due: 02/05/2019</ul>
+[Module 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class04_training.ipynb)<br>Week of 02/11/2019 | <ul><li>Training a Neural Network<li>[Module 3 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class3.ipynb) due: 02/12/2019</ul>
+[Module 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class05_class_reg.ipynb)<br>**Meet on 02/18/2019** | <ul><li>Classifcation and Regression<li>[Module 4 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class4.ipynb) due: 02/19/2019<li>**We will meet on campus this week!** (2nd Meeting)</ul>
+[Module 6](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class06_backpropagation.ipynb)<br>Week of 02/25/2019 | <ul><li>Backpropagation and Other Training Techniques<li>[Module 5 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class5.ipynb) due: 02/26/2019</ul>
+[Module 7](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class07_cnn.ipynb)<br>**Meet on 03/04/2019** | <ul><li>Convolutional Neural Networks and Computer Vision<li>[Module 6 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class6.ipynb) due: 03/05/2019<li>**We will meet on campus this week!** (3rd Meeting)</ul>
+[Module 8](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class08_kaggle.ipynb)<br>Week of 03/12/2019 | <ul><li>Kaggle and Advanced Data Sets<li>[Module 7 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class7.ipynb) due: 03/19/2019<li>Midterm exam is due 03/13/2019</ul>
+[Module 9](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class09_regularization.ipynb)<br>Week of 03/25/2019 | <ul><li>Regularization and Dropout<li>[Module 8 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class8.ipynb) due: 03/26/2019</ul>
+[Module 10](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class10_lstm.ipynb)<br>Week of 04/01/2019 | <ul><li>Time Series and LSTM/GRU Networks<li>[Module 9 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class9.ipynb) due: 04/02/2019</ul>
+[Module 11](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class11_text_nlp.ipynb)<br>Week of 04/08/2019 | <ul><li>Natural Language Processing<li>[Module 10 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class10.ipynb) due: 04/09/2019</ul>
+[Module 12](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_security.ipynb)<br>Week of 04/15/2019 | <ul><li>Security and Deep Learning<li>Kaggle Assignment due: 04/16/2019 (approx 4-6PM, due to Kaggle GMT timezone)
+[Module 13](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class13_adv.ipynb)<br>Week of 04/22/2019 | <ul><li>Advanced/New Deep Learning Topics</ul>
+[Module 14](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class14_aws.ipynb)<br>Week of 04/29/2019 | <ul><li>GPU, HPC and Cloud<li>Final Project due 04/30/2019</ul>
 
 
 # Datasets
