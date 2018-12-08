@@ -7,9 +7,6 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 Fall 2018, Mondays, Online and in class room: Cupples II / L001
 
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channel="HeatonResearch" data-layout="full" data-count="default"></div>
-
 # Course Description
 
 Deep learning is a group of exciting new technologies for neural networks. Through a combination
