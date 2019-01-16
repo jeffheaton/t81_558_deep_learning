@@ -5,7 +5,7 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
-Spring 2019, Mondays, 6-8:30, Online and in class room: Lopata Hall / 302
+Spring 2019, Mondays, 6-8:30, Online and in class room: Eads Hall / 215
 
 # Course Description
 
