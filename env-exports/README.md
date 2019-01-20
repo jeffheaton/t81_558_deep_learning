@@ -1,6 +1,11 @@
 # Exports of my Anaconda Environments for TensorFlow
 
-These are anaconda environments that I've created for various platforms.  
+These are anaconda environments that I've created for various platforms. These all
+assume that you are using [Miniconda](https://conda.io/miniconda.html).  If you use
+the wrong platform below, or install to the full Anaconda (instead of Miniconda),
+you will most likely run into specific library versions not being available
+for your platform/Python version combination.  These environments all use
+Python 3.6; however, you can still install 3.7 as your base Python.
 
 To make use of one of them, download the YML file for your platform, and use
 the following commands.
