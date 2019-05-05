@@ -1,3 +1,8 @@
+auto-mpg-shuffle.csv
+
+network.yaml
+network.json
+*.pkl
 best_weights.hdf5
 *.h5
 kddcup.data_10_percent
