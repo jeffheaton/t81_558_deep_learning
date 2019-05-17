@@ -1,5 +1,6 @@
 auto-mpg-shuffle.csv
 
+*.npy
 network.yaml
 network.json
 *.pkl
