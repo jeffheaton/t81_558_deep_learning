@@ -34,8 +34,8 @@ This syllabus presents the expected class schedule, due dates, and reading assig
 
 Module|Content
 ---|---
-[Module 1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class01_intro_python.ipynb)<br>**Meet on 01/14/2019** | <ul><li>Python Preliminaries<li>**We will meet on campus this week!** (first meeting)</ul>
-[Module 2](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class02_python_ml.ipynb)<br>Week of 01/28/2019 | <ul><li>Python for Machine Learning<li>[Module 1 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class1.ipynb) Due: 01/29/2019</ul>
+[Module 1](t81_558_class_01_1_overview.ipynb)<br>**Meet on 01/14/2019** | <ul><li>Python Preliminaries<li>**We will meet on campus this week!** (first meeting)</ul>
+[Module 2](t81_558_class_02_1_python_pandas.ipynb)<br>Week of 01/28/2019 | <ul><li>Python for Machine Learning<li>[Module 1 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class1.ipynb) Due: 01/29/2019</ul>
 [Module 3](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class03_tensor_flow.ipynb)<br>Week of 02/04/2019 | <ul><li>TensorFlow and Keras for Neural Networks<li>[Module 2: Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class2.ipynb) due: 02/05/2019</ul>
 [Module 4](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class04_training.ipynb)<br>Week of 02/11/2019 | <ul><li>Training a Neural Network<li>[Module 3 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class3.ipynb) due: 02/12/2019</ul>
 [Module 5](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class05_class_reg.ipynb)<br>**Meet on 02/18/2019** | <ul><li>Classifcation and Regression<li>[Module 4 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class4.ipynb) due: 02/19/2019<li>**We will meet on campus this week!** (2nd Meeting)</ul>
