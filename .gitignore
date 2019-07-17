@@ -1,3 +1,5 @@
+CHECKPOINT
+*.pkl
 auto_submit.csv
 mpg_submit.csv
 iris_submit.csv
