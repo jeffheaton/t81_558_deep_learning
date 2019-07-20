@@ -25,8 +25,8 @@ EXPECTED = {
 # Load neural network when Flask boots up
 model = load_model(os.path.join("../dnn/","mpg_model.h5"))
 
-@app.route('/api/mpg', methods=['GET', 'POST'])
-def add_message():
+@app.route('/api/mpg', methods=['POST'])
+def calc_mpg():
     content = request.json
     errors = []
 
