@@ -1,3 +1,5 @@
+cem_*
+*.h5f
 CHECKPOINT
 *.pkl
 auto_submit.csv
