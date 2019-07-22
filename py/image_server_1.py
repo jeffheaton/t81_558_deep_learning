@@ -36,20 +36,18 @@ model = MobileNet(weights='imagenet',include_top=True)
 
 @app.route('/api/image', methods=['POST'])
 def upload_image():
-  print(request.files)
   # check if the post request has the file part
   if 'image' not in request.files:
-      print('No file part')
-      return redirect(request.url)
+      return jsonify({'error':'No posted image. Should be attribute named image.'})
   file = request.files['image']
-  print(file)
+
   # if user does not select file, browser also
   # submit a empty part without filename
   if file.filename == '':
-      print('No selected file')
-      return redirect(request.url)
+      return jsonify({'error':'Empty filename submitted.'})
   if file and allowed_file(file.filename):
       filename = secure_filename(file.filename)
+      print("***2:"+filename)
       #file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
       x = []
       ImageFile.LOAD_TRUNCATED_IMAGES = False
@@ -68,6 +66,8 @@ def upload_image():
 
       response = {'pred':items}
       return jsonify(response)
+  else:
+      return jsonify({'error':'File has invalid extension'})
 
 if __name__ == '__main__':
     app.run(host= '0.0.0.0',debug=True)
