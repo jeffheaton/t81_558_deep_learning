@@ -1,7 +1,7 @@
 class ImageUpload extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { file: '', imagePreviewUrl: '', message: 'first' };
+    this.state = { file: '', imagePreviewUrl: '', message: '' };
   }
 
   _handleSubmit(e) {
@@ -42,6 +42,7 @@ class ImageUpload extends React.Component {
     reader.onloadend = () => {
       this.setState({
         file: file,
+        message: '',
         imagePreviewUrl: reader.result });
     };
 
