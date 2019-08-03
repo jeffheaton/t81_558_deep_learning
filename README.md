@@ -34,28 +34,10 @@ Module|Content
 [Module 10](t81_558_class_10_1_timeseries.ipynb)<br>Week of 11/04/2019 | **Module 10: Time Series in Keras**<ul><li>Part 10.1: Time Series Data Encoding for Deep Learning, TensorFlow and Keras<li>Part 10.2: Programming LSTM with Keras and TensorFlow<li>Part 10.3: Image Captioning with Keras and TensorFlow<li>Part 10.4: Temporal CNN in Keras and TensorFlow<li>Part 10.5: Predicting the Stock Market with Keras and TensorFlow<li>[Module 9 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class9.ipynb) due: 11/05/2019</ul>
 [Module 11](t81_558_class_11_01_spacy.ipynb)<br>Week of 11/11/2019 | **Module 11: Natural Language Processing**<ul><li>Part 11.1: Getting Started with Spacy in Python<li>Part 11.2: Word2Vec and Text Classification<li>Part 11.3: Natural Language Processing with Spacy and Keras<li>Part 11.4: What are Embedding Layers in Keras<li>Part 11.5: Learning English from Scratch with Keras and TensorFlow<li>[Module 10 Assignment](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/assignments/assignment_yourname_class10.ipynb) due: 11/12/2019</ul>
 [Module 12](t81_558_class_12_01_ai_gym.ipynb)<br>**Meet on 11/18/2019** | **Module 12: Reinforcement Learning**<ul><li>**We will meet on campus this week!** (4th Meeting)<li>Kaggle Assignment due: 11/17/2019 (approx 4-6PM, due to Kaggle GMT timezone)<li>Part 12.1: Introduction to the OpenAI Gym<li>Part 12.2: Introduction to Q-Learning for Keras<li>Part 12.3: Keras Q-Learning in the OpenAI Gym<li>Part 12.4: Atari Games with Keras Neural Networks<li>Part 12.5: How Alpha Zero used Reinforcement Learning to Master Chess</ul>
-[Module 13](t81_558_class_13_01_flask.ipynb)<br>Week of 11/25/2019 | **Module 13: Deployment and Monitoring**<ul><li>Part 13.1: Deploying a Model to AWS<li>Part 13.2: Flask and Deep Learning Web Services<li>Part 13.3: AI at the Edge: Using Keras on a Mobile Device<li>Part 13.4: When to Retrain Your Neural Network<li>Part 13.5: Using a Keras Deep Neural Network with a Web Application
-</ul>
+[Module 13](t81_558_class_13_01_flask.ipynb)<br>Week of 11/25/2019 | **Module 13: Deployment and Monitoring**<ul><li>Part 13.1: Deploying a Model to AWS<li>Part 13.2: Flask and Deep Learning Web Services<li>Part 13.3: AI at the Edge: Using Keras on a Mobile Device<li>Part 13.4: When to Retrain Your Neural Network<li>Part 13.5: Using a Keras Deep Neural Network with a Web Application</ul>
 [Module 14](t81_558_class_14_01_automl.ipynb)<br>Week of 12/02/2019 | **Module 14: Other Neural Network Techniques**<ul><li>Part 14.1: What is AutoML<li>Part 14.2: Using Denoising AutoEncoders in Keras<li>Part 14.3: Training an Intrusion Detection System with KDD99<li>Part 14.4: Anomaly Detection in Keras<li>Part 14.5: New Technology in Deep Learning<li>Final Project due 12/09/2019</ul>
 
 # Datasets
 
-* [Iris](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_iris.ipynb) - Classify between 3 iris species.
-* [Auto MPG](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_mpg.ipynb) - Regression to determine MPG.
-* [WC Breast Cancer](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_wcbc.ipynb) - Binary classification: malignant or benign.
-* [toy1](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/datasets_toy1.ipynb) - The toy1 dataset, regression for weights of geometric solids.
+* [Datasets can be downloaded here](https://data.heatonresearch.com/data/t81-558/index.html)
 
-*Note: Other datasets may be added as the class progresses.*
-
-# Final Project
-
-For the final project you can choose a security project or choose your own dataset to create and fit a neural network.  For more information:
-
-* Security Project - See Canvas for more information.
-* [Independent Project](https://github.com/jeffheaton/t81_558_deep_learning/raw/master/pdf/t81_558_independent_project.pdf) - Choose your own dataset or one of my suggestions.
-
-# Other Information
-
-* [Helpful Functions](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/jeffs_helpful.ipynb) - Helpful Python functions for this class.
-* [KDD99 Example](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/tf_kdd99.ipynb)
-* [Care and Feeding of Python](http://www.heatonresearch.com/content/python_care.html) - Some useful commands for a local Python install.  Not needed if you are using Data Scientist Workbench.
