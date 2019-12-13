@@ -1,0 +1,26 @@
+name: tensorflow
+
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - jupyter
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - pip:
+        - tensorflow==2.0
+        - sklearn
+        - bayesian-optimization
+        - gym
+        - kaggle
+
+
+
