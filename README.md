@@ -5,8 +5,8 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
-* Section 2. Spring 2020, Monday, 2:30 PM - 5:20 PM Online & TBA 
-* Section 1. Spring 2020, Monday, 6:00 PM - 9:00 PM Online & TBA
+* Section 2. Spring 2020, Monday, 2:30 PM - 5:20 PM Online & Cupples I / 215 
+* Section 1. Spring 2020, Monday, 6:00 PM - 9:00 PM Online & Cupples I / 215
 
 # Course Description
 
