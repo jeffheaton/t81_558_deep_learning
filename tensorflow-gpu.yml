@@ -1,4 +1,4 @@
-name: tensorflow
+name: tf2_gpu
  
 dependencies:
     - python=3.7
