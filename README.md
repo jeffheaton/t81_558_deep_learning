@@ -23,7 +23,7 @@ I am in the process of creating a textbook for this course.  You can find a draf
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://raw.githubusercontent.com/jeffheaton/t81_558_deep_learning/master/pdf/t81_558_spring2020_syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://data.heatonresearch.com/wustl/jheaton-t81-558-fall-2020-syllabus.pdf)
 
 Module|Content
 ---|---
