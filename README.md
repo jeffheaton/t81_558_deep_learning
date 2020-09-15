@@ -14,7 +14,7 @@ Deep learning is a group of exciting new technologies for neural networks. Throu
 
 # Textbook
 
-I am in the process of creating a textbook for this course.  You can find a draft [here](https://data.heatonresearch.com/public-ebook/app-deep-learning-fall-2020.pdf).
+I am in the process of creating a textbook for this course.  You can find a draft [here](https://arxiv.org/abs/2009.05673).
 
 # Objectives
 
