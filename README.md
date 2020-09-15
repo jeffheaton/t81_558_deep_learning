@@ -14,7 +14,18 @@ Deep learning is a group of exciting new technologies for neural networks. Throu
 
 # Textbook
 
-I am in the process of creating a textbook for this course.  You can find a draft [here](https://arxiv.org/abs/2009.05673).
+I am in the process of creating a textbook for this course.  You can find a draft [here](https://arxiv.org/abs/2009.05673). If you would like to cite the material from this course/book, please use the following bibtex citation:
+
+```
+@misc{heaton2020applications,
+    title={Applications of Deep Neural Networks},
+    author={Jeff Heaton},
+    year={2020},
+    eprint={2009.05673},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
 
 # Objectives
 
