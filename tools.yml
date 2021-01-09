@@ -1,4 +1,4 @@
- # conda create --name tensorflow-cpu python=3.7
+ # conda create --name tensorflow-cpu python=3.8
  # conda install jupyter
  # conda install nb_conda
  # conda install -c anaconda tensorflow
