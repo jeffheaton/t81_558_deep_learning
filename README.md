@@ -6,7 +6,7 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
 * Section 1. Fall 2021, Monday, 2:30 PM, Online 
-* Section 2. Fall 2021, Monday, 6:00 PM, Online
+* Section 2. Fall 2021, Online
 
 # Course Description
 
@@ -34,7 +34,7 @@ I am in the process of creating a textbook for this course.  You can find a draf
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://data.heatonresearch.com/wustl/jheaton-t81-558-spring-2021-syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://data.heatonresearch.com/wustl/jheaton-t81-558-fall-2021-syllabus.pdf)
 
 Module|Content
 ---|---
