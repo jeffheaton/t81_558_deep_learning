@@ -5,7 +5,7 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
-* Section 1. Fall 2021, Monday, 2:30 PM, Online 
+* Section 1. Fall 2021, Monday, 2:30 PM, Cupples II / L009 
 * Section 2. Fall 2021, Online
 
 # Course Description
