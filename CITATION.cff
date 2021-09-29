@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jeff"
+  given-names: "Heaton"
+  orcid: "https://orcid.org/0000-0003-1496-4049"
+title: "Applications of Deep Neural Networks"
+version: 2021.08.01
+date-released: 2021-08-01
+url: "https://arxiv.org/abs/2009.05673"
