@@ -4,7 +4,7 @@ dependencies:
     - python=3.9
     - pip>=19.0
     - jupyter
-    - apple::tensorflow-deps
+    - apple::tensorflow-deps==2.5.0
     - scikit-learn
     - scipy
     - pandas
@@ -18,8 +18,8 @@ dependencies:
     - flask
     - boto3
     - pip:
-        - tensorflow-macos
-        - tensorflow-metal
+        - tensorflow-macos==2.5.0
+        - tensorflow-metal==0.1.2
         - bayesian-optimization
         - gym
         - kaggle
