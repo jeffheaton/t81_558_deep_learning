@@ -15,7 +15,7 @@ Deep learning is a group of exciting new technologies for neural networks. Throu
 
 # Textbook
 
-I am in the process of creating a textbook for this course.  You can find a draft [here](https://arxiv.org/abs/2009.05673). If you would like to cite the material from this course/book, please use the following bibtex citation:
+I am in the process of creating a textbook for this course.  You can find a copy [here](https://arxiv.org/abs/2009.05673). If you would like to cite the material from this course/book, please use the following bibtex citation:
 
 ```
 @misc{heaton2020applications,
