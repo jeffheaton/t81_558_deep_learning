@@ -5,7 +5,7 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
-* Section 1. Spring 2022, Monday, 2:30 PM, Lopata Hall / 229 
+* Section 1. Spring 2022, Monday, 2:30 PM, Brauer Hall / 012 
 * Section 2. Spring 2022, Online
 * Section 3. Spring 2022, Online
 
