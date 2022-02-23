@@ -59,3 +59,25 @@ array([['b', -0.9566132133203712, 'u', ..., 1, 1, 0],
 ```
 
 See the character values? Those need to either be dropped or converted to dummy (and then dropped) before you call df.values.
+
+**********************************************************************************************************************
+# Dataframe not Callable (missing brackets)
+
+**Problem:**
+```
+TypeError: 'DataFrame' object is not callable
+```
+
+**Solution**
+
+You are missing brackets in your call to submit, you probably have simiar to:
+
+```
+submit(source_file=file,data=[df_submit],key=key,no=1) #assuming assignment 1.
+```
+
+Should be:
+
+```
+submit(source_file=file,data=[df_submit],key=key,no=1)
+```
