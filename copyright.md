@@ -1,8 +1,13 @@
 > Publisher: Heaton Research, Inc.\\
+>
 > Applications of Deep Neural Networks\\
+>
 > January, 2022\\
+>
 > Author: Jeff Heaton (\url{https://orcid.org/0000-0003-1496-4049})\\
+>
 > ISBN: 9798416344269\\
+>
 > Edition: 1\\
 
 The text and illustrations of Applications of Deep Neural Networks by Jeff Heaton are licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
