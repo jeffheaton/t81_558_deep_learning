@@ -4,7 +4,7 @@
 >
 > May, 2022
 >
-> Author: Jeff Heaton (\url{https://orcid.org/0000-0003-1496-4049})
+> Author: [Jeffrey Heaton](https://orcid.org/0000-0003-1496-4049)
 >
 > ISBN: 9798416344269
 >
