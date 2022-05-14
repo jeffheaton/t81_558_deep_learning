@@ -4,7 +4,7 @@
 >
 > May, 2022
 >
-> Author: [Jeffrey Heaton](https://orcid.org/0000-0003-1496-4049)
+> Author: [Jeffrey Heaton](https://orcid.org/0000-0003-1496-4049
 >
 > ISBN: 9798416344269
 >
@@ -21,12 +21,6 @@ Heaton Research, Encog, the Encog Logo, and the Heaton Research logo are all tra
 TRADEMARKS: Heaton Research has attempted throughout this book to distinguish proprietary trademarks from descriptive terms by following the capitalization style used by the manufacturer.
 
 The author and publisher have done their best to prepare this book, so the content is based upon the final release of software whenever possible. Portions of the manuscript may be based upon pre-release versions supplied by software manufacturer(s). The author and the publisher make no representation or warranties of any kind about the completeness or accuracy of the contents herein and accept no liability of any kind, including but not limited to performance, merchantability, fitness for any particular purpose, or any losses or damages of any kind caused or alleged to be caused directly or indirectly from this book.
-
-**SOFTWARE LICENSE AGREEMENT: TERMS AND CONDITIONS**
-
-> Web: www.heatonresearch.com
->
-> E-Mail: support@heatonresearch.com
 
 **DISCLAIMER**
 
