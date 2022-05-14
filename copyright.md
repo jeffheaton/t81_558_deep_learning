@@ -8,8 +8,8 @@
 The text and illustrations of Applications of Deep Neural Networks by Jeff Heaton are licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
 All of the book's source code is licensed under the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the license or (at your option) any later version. [LGPL](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
-![](lgplv3-88x31)
-![](CC-BY-NC-SA-4_0)
+![LGPL](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/images/lgplv3-88x31.png?raw=true)
+![CC-BY-NC-SA-4_0](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/images/CC-BY-NC-SA-4_0.png?raw=true)
 
 Heaton Research, Encog, the Encog Logo, and the Heaton Research logo are all trademarks of Jeff Heaton in the United States and/or other countries.
 
