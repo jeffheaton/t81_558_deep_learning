@@ -4,11 +4,11 @@ Starting in the spring semester of 2016, I began teaching the T81-558 Applicatio
 
 I license the book's text under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Similarly, I offer the book's code under the LGPL license. Though I provide this book both as a relatively inexpensive paperback and Amazon Kindle, you can obtain the book's PDF here:
 
-[https://arxiv.org/abs/2009.05673](https://arxiv.org/abs/2009.05673)
+* [https://arxiv.org/abs/2009.05673](https://arxiv.org/abs/2009.05673)
 
 The book's code is available at the following GitHub repository:
 
-[https://github.com/jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
+* [https://github.com/jeffheaton/t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning)
 
 If you purchased this book from me, you have my sincere thanks for supporting my ongoing projects. I sell the book as a relatively low-cost paperback and Kindle ebook for those who prefer that format or wish to support my projects. I suggest that you look at the above GitHub site, as all of the code for this book is presented there as Jupyter notebooks that are entirely Google CoLab compatible. 
 
