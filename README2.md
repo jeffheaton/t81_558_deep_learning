@@ -14,7 +14,9 @@ Deep learning is a group of exciting new technologies for neural networks. Throu
 
 # Textbook
 
-I am in the process of creating a textbook for this course.  You can find a copy [here](https://arxiv.org/abs/2009.05673). If you would like to cite the material from this course/book, please use the following bibtex citation:
+The complete text for this course is here on GitHub. You can download the course textbook for [free](https://arxiv.org/abs/2009.05673). You can also purchase a paperback or Kindle version from [Amazon](https://www.amazon.com/Applications-Deep-Neural-Networks-Keras-ebook/dp/B0B1N2448P).
+
+If you would like to cite the material from this course/book, please use the following bibtex citation:
 
 ```
 @misc{heaton2020applications,
