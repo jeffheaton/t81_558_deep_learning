@@ -1,0 +1,28 @@
+name: torch
+channels:
+  - pytorch-nightly
+  - conda-forge
+dependencies:
+    - python=3.9
+    - pip>=19.0
+    - pytorch 
+    - torchvision 
+    - jupyter
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - ipykernel
+    - pip:
+        - bayesian-optimization
+        - gym
+        - kaggle
+        
