@@ -3,10 +3,9 @@ channels:
   - apple
   - conda-forge
 dependencies:
-    - python=3.9
+    - python=3.10
     - pip>=19.0
     - jupyter
-    - tensorflow-deps
     - scikit-learn
     - scipy
     - pandas
@@ -26,4 +25,3 @@ dependencies:
         - bayesian-optimization
         - gym
         - kaggle
-        
