@@ -5,7 +5,7 @@ Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
 
 **The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
 
-* Section 1. Spring 2023, Monday, 2:30 PM, Location: TBD 
+* Section 1. Spring 2023, Monday, 2:30 PM, Location: Eads / 216 
 * Section 2. Spring 2023, Online
 
 # Course Description
@@ -36,7 +36,7 @@ If you would like to cite the material from this course/book, please use the fol
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://data.heatonresearch.com/wustl/jheaton-t81-558-spring-2022-syllabus.pdf)
+This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://data.heatonresearch.com/wustl/jheaton-t81-558-spring-2023-syllabus.pdf)
 
 Module|Content
 ---|---
