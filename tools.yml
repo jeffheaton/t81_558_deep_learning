@@ -1,9 +1,8 @@
- # conda create --name tensorflow-cpu python=3.9.5
- # conda install jupyter
- # conda install nb_conda
- # conda install -c anaconda tensorflow
- # conda env update --file tools.yml
+channels:
+    - conda-forge
 dependencies:
+    - cudatoolkit=11.2.2 
+    - cudnn=8.1.0
     - jupyter
     - scikit-learn
     - scipy
@@ -19,6 +18,7 @@ dependencies:
     - boto3
     - pip
     - pip:
+        - tensorflow==2.11.0
         - bayesian-optimization
         - gym
         - kaggle
