@@ -1,4 +1,8 @@
-# T81 558:Applications of Deep Neural Networks
+# Important Note
+
+Current students of this course at Washington University should refer to the [PyTorch version of this course](https://github.com/jeffheaton/app_deep_learning), which is what is currently offered at the university. This repository contains the previous Keras/TensorFlow version.
+
+# T81 558:Applications of Deep Neural Networks - TensorFlow
 [Washington University in St. Louis](http://www.wustl.edu)
 
 Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
