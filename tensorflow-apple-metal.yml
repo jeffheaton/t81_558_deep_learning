@@ -1,7 +1,9 @@
 name: tensorflow
- 
+channels:
+  - apple
+  - conda-forge
 dependencies:
-    - python=3.8
+    - python=3.10
     - pip>=19.0
     - jupyter
     - scikit-learn
@@ -16,8 +18,10 @@ dependencies:
     - pyyaml
     - flask
     - boto3
+    - ipykernel
     - pip:
-        - tensorflow==2.4
+        - tensorflow-macos
+        - tensorflow-metal
         - bayesian-optimization
         - gym
         - kaggle
