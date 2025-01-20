@@ -6,6 +6,7 @@ dependencies:
     - python=3.10
     - pip>=19.0
     - jupyter
+    - tensorflow-deps
     - scikit-learn
     - scipy
     - pandas
